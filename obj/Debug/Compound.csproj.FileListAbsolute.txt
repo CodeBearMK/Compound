@@ -1,0 +1,11 @@
+D:\cat32tw\Desktop\Compound\bin\Debug\Compound.exe.config
+D:\cat32tw\Desktop\Compound\bin\Debug\Compound.exe
+D:\cat32tw\Desktop\Compound\bin\Debug\Compound.pdb
+D:\cat32tw\Desktop\Compound\obj\Debug\Compound.csproj.AssemblyReference.cache
+D:\cat32tw\Desktop\Compound\obj\Debug\Compound.csproj.SuggestedBindingRedirects.cache
+D:\cat32tw\Desktop\Compound\obj\Debug\Compound.Form1.resources
+D:\cat32tw\Desktop\Compound\obj\Debug\Compound.Properties.Resources.resources
+D:\cat32tw\Desktop\Compound\obj\Debug\Compound.csproj.GenerateResource.cache
+D:\cat32tw\Desktop\Compound\obj\Debug\Compound.csproj.CoreCompileInputs.cache
+D:\cat32tw\Desktop\Compound\obj\Debug\Compound.exe
+D:\cat32tw\Desktop\Compound\obj\Debug\Compound.pdb
